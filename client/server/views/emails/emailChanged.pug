@@ -1,0 +1,64 @@
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    title Your Email Has Been Updated - Tympact
+    style.
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      .header {
+        text-align: center;
+        padding: 20px 0;
+        background-color: #3b82f6;
+        color: white;
+        border-radius: 8px 8px 0 0;
+      }
+      .content {
+        padding: 20px;
+        background-color: #f9fafb;
+        border: 1px solid #e5e7eb;
+        border-top: none;
+        border-radius: 0 0 8px 8px;
+      }
+      .button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #3b82f6;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+        font-weight: bold;
+        margin: 15px 0;
+      }
+      .footer {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 12px;
+        color: #6b7280;
+      }
+  body
+    .header
+      h1 Email Address Updated
+    .content
+      p Hello #{firstName},
+      p This is a confirmation that the email address for your Tympact account has been updated to #{newEmail}.
+      p If you made this change, no further action is required.
+      p If you didn't make this change, please secure your account immediately by clicking the button below:
+      p(style='text-align: center;')
+        a.button(href=url) Secure My Account
+      p For security, this link will expire in 1 hour.
+      p If the button doesn't work, you can copy and paste this link into your browser:
+      p(style='word-break: break-all;') #{url}
+      p If you're having trouble with your account, please contact our support team.
+      p Best regards,
+      p The Tympact Team
+    .footer
+      p © #{new Date().getFullYear()} Tympact. All rights reserved.
+      p This email was sent to #{to}. This is an automated message, please do not reply.

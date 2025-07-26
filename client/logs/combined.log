@@ -1,0 +1,421 @@
+2025-07-25 15:08:29 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 15:08:30 [[31MERROR[39M]: Error: 7 PERMISSION_DENIED: Cloud Firestore API has not been used in project tympact-8298b before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/firestore.googleapis.com/overview?project=tympact-8298b then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:18:08 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:18:09 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:18:09 [[31MERROR[39M]: Error: 7 PERMISSION_DENIED: Cloud Firestore API has not been used in project tympact-8298b before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/firestore.googleapis.com/overview?project=tympact-8298b then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:19:04 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:19:04 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:19:05 [[31MERROR[39M]: Error: 7 PERMISSION_DENIED: Cloud Firestore API has not been used in project tympact-8298b before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/firestore.googleapis.com/overview?project=tympact-8298b then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:19:54 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:19:54 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:19:54 [[31MERROR[39M]: Error: 7 PERMISSION_DENIED: Cloud Firestore API has not been used in project tympact-8298b before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/firestore.googleapis.com/overview?project=tympact-8298b then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:20:03 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:20:03 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:20:03 [[31MERROR[39M]: Error: 7 PERMISSION_DENIED: Cloud Firestore API has not been used in project tympact-8298b before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/firestore.googleapis.com/overview?project=tympact-8298b then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:20:14 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:20:14 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:20:14 [[31MERROR[39M]: Error: 7 PERMISSION_DENIED: Cloud Firestore API has not been used in project tympact-8298b before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/firestore.googleapis.com/overview?project=tympact-8298b then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:22:51 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:22:52 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:22:52 [[31MERROR[39M]: Error: 7 PERMISSION_DENIED: Cloud Firestore API has not been used in project tympact-8298b before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/firestore.googleapis.com/overview?project=tympact-8298b then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:25:34 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:25:35 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:25:35 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:25:56 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:25:56 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:25:56 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:26:05 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:26:05 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:26:05 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:26:16 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:26:16 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:26:17 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:27:52 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:27:52 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:27:53 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:28:01 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:28:01 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:28:02 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:28:50 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:28:50 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:28:50 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 22:28:59 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 22:28:59 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 22:29:00 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 23:08:30 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 23:08:31 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 23:08:31 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-25 23:53:12 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-25 23:53:13 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-25 23:53:13 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-26 00:22:22 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 00:22:22 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 00:22:22 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-26 00:23:18 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 00:23:18 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 00:23:19 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-26 00:23:32 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 00:23:32 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 00:23:32 [[31MERROR[39M]: Error: 5 NOT_FOUND: 
+    at callErrorFromStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/call.js:32:19)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:193:76)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:361:141)
+    at Object.onReceiveStatus (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client-interceptors.js:324:181)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/resolving-call.js:135:78
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+for call at
+    at ServiceClientImpl.makeUnaryRequest (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/client.js:161:32)
+    at ServiceClientImpl.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/@grpc/grpc-js/build/src/make-client.js:105:19)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/@google-cloud/firestore/build/src/v1/firestore_client.js:242:33
+    at wrappedCall (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/paginationCalls/pagedApiCaller.js:87:20)
+    at /Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/timeout.js:44:16
+    at repeat (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:82:25)
+    at Immediate.<anonymous> (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/google-gax/build/src/normalCalls/retries.js:125:13)
+    at process.processImmediate (node:internal/timers:487:21)
+2025-07-26 01:04:35 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 01:04:35 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 01:04:36 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 01:05:05 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 01:11:09 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 01:11:09 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 01:11:09 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 01:11:39 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 01:51:14 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 01:51:15 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 01:51:15 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 01:51:45 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 01:59:37 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 01:59:38 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 01:59:38 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 02:00:08 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 02:06:42 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 02:06:42 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 02:06:42 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 02:07:12 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 02:07:41 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 02:07:41 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 02:07:42 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 02:08:11 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 02:15:57 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 02:15:57 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 02:15:57 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 02:16:27 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017, connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 16:43:52 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 16:43:53 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 16:43:53 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 16:44:23 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 16:45:01 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 16:45:02 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 16:45:02 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 16:45:32 [[31MERROR[39M]: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1165:11)
+    at NativeConnection.openUri (/Users/ujjwal/Desktop/Tympact/client/server/node_modules/mongoose/lib/connection.js:1096:11)
+2025-07-26 16:47:10 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 16:47:10 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 16:47:11 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 16:47:40 [[33MWARN[39M]: 	[33mMongoDB connection failed, using Firebase only:[39m
+2025-07-26 17:04:37 [[32MINFO[39M]: 	[32mFirebase Admin SDK initialized successfully[39m
+2025-07-26 17:04:37 [[32MINFO[39M]: 	[32mApp running on port 5001...[39m
+2025-07-26 17:04:38 [[32MINFO[39M]: 	[32mSuccessfully connected to Firestore[39m
+2025-07-26 17:05:07 [[33MWARN[39M]: 	[33mMongoDB connection failed, using Firebase only:[39m
